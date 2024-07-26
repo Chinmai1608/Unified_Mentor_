@@ -41,6 +41,7 @@ For Python: You have to submit your code PDF file at the final submission.
 Detail project report:
 You have to create a detailed project report and submit that document as per the given
 sample.
-
+***
+<div align='center'>
 <noscript><a href='https://unifiedmentor.podia.com/'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/7a2d4c1a-a01c-4e97-9074-b9660a430a29' style='border: none' /></a></noscript>
-
+</div>
