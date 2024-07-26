@@ -1,5 +1,5 @@
-## Analyzing Amazon Sales data
-Project Title: Analyzing Amazon Sales data
+## Analyzing Budget Sales data
+Project Title: Analyzing Budget Sales data
 
 Technologies: Data Science
 Domain: E-commerce
@@ -41,6 +41,10 @@ For Python: You have to submit your code PDF file at the final submission.
 Detail project report:
 You have to create a detailed project report and submit that document as per the given
 sample.
+
+<noscript><a href='https://public.tableau.com/views/BudgetSalesDataUnifiedMentor/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/3bb255c6-1cd3-429a-afb3-5874c5c19c5c' style='border: none' /></a></noscript>
+
+
 ***
 <div align='center'>
 <noscript><a href='https://unifiedmentor.podia.com/'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/7a2d4c1a-a01c-4e97-9074-b9660a430a29' style='border: none' /></a></noscript>
