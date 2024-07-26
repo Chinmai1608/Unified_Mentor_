@@ -1,5 +1,17 @@
-<noscript><a href='https://unifiedmentor.podia.com/'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/7a2d4c1a-a01c-4e97-9074-b9660a430a29' style='border: none' /></a></noscript>
+<noscript><a href='https://unifiedmentor.podia.com/'><img alt='Unified Mentor' src='https://github.com/user-attachments/assets/8013bc2b-0a2b-4c08-93f9-3d4daffe430f' /></a></noscript>
 
-Data Science Internship
+# Tableau-Green-Destinations-HR-Analytics-Dashboard
+### Objectives:
+Green Destinations is a well known travel agency. The HR Director has recently noticed anincrease in employees leaving (attrition). She would like to figure out any trends or patterns. She has surveyed the staff of Green Destinations and provided the data.
 
-<noscript><a href='https://unifiedmentor.podia.com/'><img alt='IPL DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/7a2d4c1a-a01c-4e97-9074-b9660a430a29' style='border: none' /></a></noscript>
+She would like to know what the attrition rate is (% of people who have left).
+
+She would also like to know if factors like age, years at the company and income play a part indetermining if people will leave or not. 
+
+
+<noscript><a href='https://public.tableau.com/app/profile/chinmai.nimgade'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/e68a482a-9854-4867-93f2-9ee28a60fc7c' style='border: none' /></a></noscript>
+
+***
+<div align=center>
+<noscript align=center><a href='https://unifiedmentor.podia.com/'><img alt='Unified Mentor' src='https://github.com/user-attachments/assets/7a2d4c1a-a01c-4e97-9074-b9660a430a29' style='border: none' /></a></noscript>
+</div>
