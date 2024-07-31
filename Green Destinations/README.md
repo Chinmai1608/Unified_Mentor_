@@ -9,7 +9,7 @@ She would like to know what the attrition rate is (% of people who have left).
 She would also like to know if factors like age, years at the company and income play a part indetermining if people will leave or not. 
 
 
-<noscript><a href='https://public.tableau.com/app/profile/chinmai.nimgade'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/e68a482a-9854-4867-93f2-9ee28a60fc7c' style='border: none' /></a></noscript>
+<noscript><a href='https://public.tableau.com/app/profile/chinmai.nimgade'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/dc370ff7-a852-49fe-a1be-ca9089868508' style='border: none' /></a></noscript>
 
 ***
 <div align=center>
