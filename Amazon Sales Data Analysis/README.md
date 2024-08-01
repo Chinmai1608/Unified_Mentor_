@@ -42,6 +42,15 @@ Detail project report:
 You have to create a detailed project report and submit that document as per the given
 sample.
 
+## Links
+<a href="https://colab.research.google.com/drive/1YqhqAkyjCzBlB1BF_Pv0wflMShKzMTJr?usp=sharing" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="50" height="50"/></a> 
+<a href="https://github.com/Chinmai1608/Afame_Technologies_/blob/main/HR_Data_Analysis.ipynb="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/filemaker/filemaker-icon.svg" alt="git" width="50" height="50"/></a>
+
+
+
+## Dashboard
 <noscript><a href='https://public.tableau.com/views/AmazonSalesDataAnalysisUnifiedMentor/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/6b8b5112-1965-4323-92f5-7b28696d7c60' style='border: none' /></a></noscript>
 
 
